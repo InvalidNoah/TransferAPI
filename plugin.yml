@@ -2,6 +2,7 @@ name: TransferAPI
 version: 1.0.0
 author: eyNoah
 api: [3.0.0, 4.0.0]
+main: tapi\TransferAPI
 
 commands:
   transferapi:
