@@ -1,0 +1,8 @@
+name: TransferAPI
+version: 1.0.0
+author: eyNoah
+api: [3.0.0, 4.0.0]
+
+commands:
+  transferapi:
+    description: "TransferAPI Information Command!"
